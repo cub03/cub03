@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chioma Ukaegbu.
-- 👀 I’m interested in working on a project with a team where I can collaborate, solve problems, learn new things and advance my skills.
-- 🌱 I’m currently learning to become a data scientist in AltSchool.
-- 📫 You can reach me via email; chiomaukaegbu@gmail.com
+- Hi, my name is Chioma Ukaegbu.
+- I am a data analyst and I'm currently learning to become a data scientist in AltSchool Africa.
+- I’m interested in working on a project with a team where I can collaborate, solve problems, learn new things and advance my skills.
+- You can reach me via email on chiomaukaegbu@gmail.com
 
 
 <!---
